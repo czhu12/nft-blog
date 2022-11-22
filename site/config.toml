@@ -3,3 +3,6 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
 theme = "coyote"
+staticDir = ['static']
+[outputs]
+  home = [ "HTML", "RSS", "JSON"]
