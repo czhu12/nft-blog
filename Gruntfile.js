@@ -66,6 +66,8 @@ module.exports = function(grunt) {
                 title: frontMatter.title,
                 tags: frontMatter.tags,
                 href: href,
+                image: frontMatter.image,
+                description: frontMatter.description,
                 content: S(content[2]).trim().stripTags().stripPunctuation().s
             };
 
