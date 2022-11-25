@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "/blog"
 languageCode = "en-us"
 languageLang = "en"
-title = "Homepage"
+title = "Mintables Blog"
 theme = "coyote"
 staticDir = ['static']
 [outputs]

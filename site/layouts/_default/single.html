@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="post">
   <div class="post__header">
-    <img class="post__image" src="{{ .Params.image }}">
+    <img class="post__image" src="/blog/{{ .Params.image }}">
   </div>
 
   {{ with .Params.tags }}
