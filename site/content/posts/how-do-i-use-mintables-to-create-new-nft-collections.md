@@ -10,6 +10,4 @@ Watch our YouTube tutorial on how to use our NFT maker to create and generate an
 
 ![](img/mintables.jpg)
 
-![]()
-
 <https://youtu.be/QQ1qpvrER5o>
