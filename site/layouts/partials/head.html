@@ -15,4 +15,4 @@
   {{ $js := slice $fusejs $search | resources.Concat "js/bundle.js" | resources.Fingerprint "sha512" }}
   <script defer type="text/javascript" src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 {{- end }}
-<base href="{{ .Site.BaseURL }}">
+<base href="https://mintables.club{{ .Site.BaseURL }}">
