@@ -1,7 +1,7 @@
 ---
 title: mintables NFT generator - Why are my images not layering correctly?
 date: 2022-11-28T06:23:32.664Z
-description: Learn the mistakes people made when using mintables NFT generator
+description: Learn the mistakes people make when using mintables NFT generator
   to generate NFTs and how to fix
 image: img/nft_generator_image_layering.png
 ---
