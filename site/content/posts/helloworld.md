@@ -3,7 +3,7 @@ title: What are blockchains and NFT
 date: 2022-11-27T23:47:54.750Z
 description: What are blockchains and NFT, understand how blockchains and NFT
   work in 5 minutes
-image: ""
+image: img/blockchain_nft.png
 ---
 NFTs, which stand for "non-fungible tokens," are a blockchain record that confirms the ownership and uniqueness of digital assets. As long as they are NFTs, their individual values and ownership cannot be divided and traded. Since any $100 bill can be exchanged for another $100 bill, therefore, money is fungible. Each digital file is authenticated through a cryptographic transaction process, which also offers a digital signature to track NFT ownership. The NFT's ownership is tracked on a blockchain in the Ethereum virtual machine (EVM) to prevent double spending.  
 
