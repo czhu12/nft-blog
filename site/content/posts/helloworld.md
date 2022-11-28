@@ -5,7 +5,7 @@ description: What are blockchains and NFT, understand how blockchains and NFT
   work in 5 minutes
 image: img/blockchain_nft.png
 ---
-NFTs, which stand for "non-fungible tokens," are a blockchain record that confirms the ownership and uniqueness of digital assets. As long as they are NFTs, their individual values and ownership cannot be divided and traded. Since any $100 bill can be exchanged for another $100 bill, therefore, money is fungible. Each digital file is authenticated through a cryptographic transaction process, which also offers a digital signature to track NFT ownership. The NFT's ownership is tracked on a blockchain in the Ethereum virtual machine (EVM) to prevent double spending.  
+NFTs, which stand for "non-fungible tokens," are blockchain records that confirm the ownership and uniqueness of digital assets. As long as they are NFTs, their individual values and ownership cannot be divided and traded. Since any $100 bill can be exchanged for another $100 bill, therefore, money is fungible. Each digital file is authenticated through a cryptographic transaction process, which also offers a digital signature to track NFT ownership. The NFT's ownership is tracked on a blockchain in the Ethereum virtual machine (EVM) to prevent double spending.  
 
 NFTs can track and represent the authenticity and ownership of physical assets, such as paintings, sculptures, and other original works of art, as well as digital assets in the forms of images, audios, videos, or other types. NFTs can be used extensively in the gaming and gambling sectors. Any artist can make NFT art using random NFT generators. Nowadays, NFT artists are a new and respected class of artists. NFT art can be put up for auction and sold on a dedicated marketplace.\
  \
