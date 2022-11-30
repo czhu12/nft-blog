@@ -6,7 +6,7 @@ image: img/brief_history_of_nfts.jpg
 ---
 The concept of digital assets is not new; it's been around for some time. However, the first decentralized cryptocurrency was Bitcoin, which successfully introduced the idea of a digital asset in 2009. So, many people began to call bitcoin as "digital gold." Nevertheless, bitcoin, which is fungible, was the first decentralized cryptocurrency. In 2012, when people were looking for ways to transfer assets, colored coins were the first attempt of this kind. ﻿
 
-![](https://cdn.rightclicksaveas.me/aq3rvzhw55l85k09g2dx4h8m5fpq)
+![NFT Arts](https://cdn.rightclicksaveas.me/aq3rvzhw55l85k09g2dx4h8m5fpq "NFT Arts")
 
 ﻿\
 Source: <https://www.mintables.club/m/mutantfreakape>
