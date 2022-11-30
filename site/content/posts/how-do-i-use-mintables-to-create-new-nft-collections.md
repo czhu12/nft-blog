@@ -1,12 +1,13 @@
 ---
-title: How do I use Mintables to create new NFT collections
+title: Mintables NFT Generator How to - How do I use Mintables to create new NFT
+  collections
 date: 2022-11-28T06:02:42.122Z
 description: How to create NFT collections using our state of arts NFT generator
 image: img/mintables_nft_generator.jpg
 ---
 Watch our YouTube tutorial on how to use our NFT maker to create and generate an NFT collection in 5 minutes, no code experience necessary.
 
-S﻿ave hours of effort on creating NFT arts using our state of arts NFT creator/generator, no coding experience required.
+S﻿ave hours of effort using our state of arts NFT creator/generator to create 10,000 NFT art works with no coding.
 
 <https://www.youtube.com/watch?v=QQ1qpvrER5o&t=1s>
 
