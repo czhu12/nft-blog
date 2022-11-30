@@ -16,7 +16,7 @@ It is very difficult or impossible to create NFT digital art collections using t
 **\
 What are layers?**
 
-Usually, NFT collections are created by layering several images together. The components of an image known as layers determine the typical shape of an NFT. In Bored Ape NFTs, the main character is a monkey with multiple layers, including a background, fur, mouth, hat (notice the tie), clothes, eyes, and an earring.
+Usually, NFT collections are created by layering several images together. The components of an image known as layers determine the typical shape of an NFT. In Bored Ape NFTs, the main character is a monkey with multiple layers, including a background, fur, mouth, hat (notice the tie), clothes, eyes, and earring.
 
 **\
 What are traits?**
