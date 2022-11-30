@@ -2,7 +2,7 @@
 title: Brief History of NFTs
 date: 2022-11-28T04:52:51.930Z
 description: The brief history of NFTs
-image: img/brief_history_of_nft.png
+image: img/brief_history_of_nfts.jpg
 ---
 The concept of digital assets is not new; it's been around for some time. However, the first decentralized cryptocurrency was Bitcoin, which successfully introduced the idea of a digital asset in 2009. So, many people began to call bitcoin as "digital gold." Nevertheless, bitcoin, which is fungible, was the first decentralized cryptocurrency. In 2012, when people were looking for ways to transfer assets, colored coins were the first attempt of this kind. ﻿
 
