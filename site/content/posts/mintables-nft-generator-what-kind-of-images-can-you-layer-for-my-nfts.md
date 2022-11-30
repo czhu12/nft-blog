@@ -1,7 +1,8 @@
 ---
-title: mintables NFT generator - What kind of images can you layer for my NFTs
+title: Mintables NFT Generator How to - What kind of images can you layer for my NFTs
 date: 2022-11-28T06:48:00.153Z
 description: "Explain how mintables NFT generator layer gif and png images "
+image: img/nft_images.jpg
 ---
 A user can layer PNG and GIF images using our NFT artwork generator. JPG and JPEG images are not transparent, making it impossible for us to support them because layers cannot be created with them. We give designers an infinite number of layered design options by supporting multiple image formats, such as PNG and GIF. ﻿
 
