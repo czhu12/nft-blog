@@ -12,3 +12,5 @@ Mintables is fully integrated with all NFT marketplaces via the Ethereum and Pol
 You can find the link to your NFT on OpenSea by clicking on the OpenSea link after an NFT is minted in the bottom left corner.
 
 ![Mintalbes Intergration with OpenSea](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-10.png?resize=980%2C582&ssl=1 "Mintalbes Intergration with OpenSea")
+
+                                                    Click on OpenSea to see your NFT on OpenSea
