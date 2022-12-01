@@ -13,7 +13,7 @@ All contracts deployed on Mintables allows the owner of the collection (you) to 
 
 Click on **Your Projects** → **Select Your Project** **→ Deployment** → **Generate** → **Send**
 
-![](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-7.png?resize=980%2C580&ssl=1)
+![Airdrop NFT on Mintables](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-7.png?resize=980%2C580&ssl=1 "Airdrop NFT on Mintables")
 
 Make sure the wallet address you enter is correct.
 
@@ -21,7 +21,7 @@ Make sure to enter the wallet address owned by the fan you want to airdrop the N
 
 Make sure you connect to Mintables with the wallet address you originally used to deploy the smart contract, otherwise, you will not be able to airdrop and see this error:
 
-![](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-8.png?resize=980%2C232&ssl=1)
+![Airdrop NFT on Mintables](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-8.png?resize=980%2C232&ssl=1 "Airdrop NFT on Mintables")
 
 ## Why do I need to pay to do airdrops?
 
