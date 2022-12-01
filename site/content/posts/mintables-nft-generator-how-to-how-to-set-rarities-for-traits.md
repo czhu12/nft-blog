@@ -2,6 +2,7 @@
 title: Mintables NFT Generator How to - How to set rarities for traits
 date: 2022-11-30T23:07:47.219Z
 description: "Steps to set rarities for NFT traits  "
+image: img/rarity_editor.jpg
 ---
 Use our **Rarity Editor** to set the rarity of your traits. You can find the Rarity Editor by first selecting a layer and clicking on the gear icon on the top right corner.
 
