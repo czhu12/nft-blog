@@ -1,5 +1,5 @@
 ---
-title: Mintables NFT Generator How to - How to set rarities for traits
+title: Mintables NFT Generator How to - Set rarities for traits
 date: 2022-11-30T23:07:47.219Z
 description: "Steps to set rarities for NFT traits  "
 image: img/rarity_editor.jpg
