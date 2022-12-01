@@ -10,7 +10,7 @@ Yes! The type of your minting page can be changed an any time. Mintables support
 
 Go to **Your Projects** → **Select Your Project** **→** **Deployment** → **Marketplace Type** → **Change**
 
-![](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-13.png?resize=980%2C591&ssl=1)
+![NFT minting type](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-13.png?resize=980%2C591&ssl=1 "NFT minting type")
 
 ## Types of minting pages
 
@@ -18,7 +18,7 @@ Mintables currently supports multiple types of minting pages for your NFT collec
 
 ## Build a bear
 
-![](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-15.png?resize=980%2C663&ssl=1)
+![NFT Build a Bear Type](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-15.png?resize=980%2C663&ssl=1 "NFT Build a Bear Type")
 
 Fans can build their own NFT’s
 
@@ -28,4 +28,4 @@ A build a bear minting page allows your fans to use your layers to build their o
 
 A random minting page will generate a random NFT according to rarity settings. Fans that mint from this type of minting page will not know what they receive until after they mint.
 
-![](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-17.png?resize=980%2C635&ssl=1)
+![NFT Random Minting Type](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-17.png?resize=980%2C635&ssl=1 "NFT Random Minting Type")
