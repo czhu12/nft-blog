@@ -1,6 +1,6 @@
 ---
-title: Mintables NFT Generator How to - Does Mintables integrate with Opensea
-  and other NFT marketplaces
+title: Mintables NFT Generator How to - Mintables integration with Opensea and
+  other NFT marketplaces
 date: 2022-12-01T02:40:58.951Z
 description: Mintables is fully integrated with Opensea and other popular NFT marketplaces
 image: img/opensea_intergration.jpg
