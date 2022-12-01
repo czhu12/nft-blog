@@ -1,6 +1,5 @@
 ---
-title: Mintables NFT Generator How to - How can I make either layer A or layer B
-  to show up?
+title: Mintables NFT Generator How to - Make either layer A or layer B to show up?
 date: 2022-11-28T07:24:35.572Z
 description: How to use Mintables NFT generator to display different shapes and
   styles of artwork
