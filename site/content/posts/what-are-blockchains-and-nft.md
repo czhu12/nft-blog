@@ -31,3 +31,13 @@ What are rarities?**
 NFT’s in a collection typically have different rarities based on the individual rarities of the traits. You can use our Rarity Editor to set the rarity of traits.﻿
 
 ![NFT rarities](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-3.png?resize=980%2C630&ssl=1 "Understand NFT rarities")
+
+Mintables currently supports the **Polygon** and **Ethereum** blockchains.
+
+You can select your blockchain when deploying a new project on the Contract Creation page.
+
+![](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-20.png?resize=980%2C731&ssl=1)
+
+## Do you support Solana?
+
+We are currently adding support for Solana! Stay tuned!
