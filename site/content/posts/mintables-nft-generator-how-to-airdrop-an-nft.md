@@ -2,6 +2,7 @@
 title: Mintables NFT Generator How to - Airdrop an NFT
 date: 2022-12-01T18:57:16.708Z
 description: How to airdrop an NFT on Mintables
+image: img/airdrop_nft.jpg
 ---
 ## What does it mean to airdrop an NFT?
 
