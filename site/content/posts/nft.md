@@ -9,7 +9,6 @@ The world of technology is evolving day by day, from web 2 to web 3, from art to
 
 **Art + Blockchain = NFT**
 
-
 With distinct identifying codes and metadata (such as title, website, description, type of content, any giveaways, etc.) that can be sold and exchanged, a non-fungible token (NFT) is a non-transferable unit or cryptographic asset of data kept on a blockchain, a type of digital ledger. For instance, money is fungible because any $10 bill can be exchanged for another $10 bill. On the other hand, non-fungible assets are distinct and one of a kind. Each digital file is authenticated through this cryptographic transaction procedure, which also provides a digital signature that is used to monitor NFT ownership.
 
 NFTs can be nearly anything, including a poem, song, movie scene, or photograph. They are valuable due to their rarity and authenticity. A unique way to invest in the web3, art, technology, and, as we like to say, the future is to collect an NFT!
@@ -22,17 +21,10 @@ A new craze for NFTs began in 2021, catching the attention of prominent celebrit
 
 ## How to Create A NFT Collection
 
-
 Maybe after reading the previous section, you will become excited to create your NFT, but let’s just try to find the answers to some common questions before moving forward:
 
 * Do I need to make an NFT? Perhaps your followers wish to view your work in a different light. However, that does not automatically imply that it should be an NFT. You should consider why you wish to do this. Is it because you’re curious about the blockchain, cryptocurrencies, and the communities that support them, or do you just like NFTs?
-
-<!---->
-
 * Is it analogous to producing digital art? NFTs can be categorized as digital art in the blockchain.
-
-<!---->
-
 * Does making an NFT require an understanding of blockchain? You must be aware of the advantages and disadvantages of the blockchain. No expertise is required. But you’ll get the most out of it if you grasp the fundamentals.
 
 You can upload your incredible works of art on the blockchain once the above issues have been resolved. Use a no-code tool, such as the Mintables, as an NFT art generator. Without writing a single line of code, you can mint NFT art in huge numbers.
@@ -43,24 +35,22 @@ Making a smart contract is also not anything you need to be concerned about. Wit
 
 ## NFT Marketplace
 
-
 After creating NFT, the big question is, where to visit for the NFT launch. Let us just try to answer this very common question. There are multiple NFT marketplaces, where you can buy/sell NFTs, some of them are as follows:
 
 * OpenSea
-
-<!---->
-
-* Coinbase
-
-<!---->
-
+* C﻿oinbase
 * Rarible
+* L﻿ooksRare
+* S﻿uperRare
+* N﻿ifty Gateway
 
-  ⦁	SuperRare
-  ⦁	Nifty Gateway
-*
-*
-*
-*
-*
-*
+
+
+## How to attract potential buyers?
+
+
+It can be a perfect fit, if your traditional work reflects some traditional touch, to NFT collectors. If the content is truly valuable, there will be a market for it, just like there is for anything else of value. Put yourself in the position of your potential customers and consider what will seem most genuine to them. The worth may stem from your artistic identity or the topic matter you choose to portray. You can always experiment with both traditional and digital art to make NFT art for potential sales or gallery displays.
+With web3, we are witnessing more innovative possibilities for creators to display their work, as well as for collectors to have a central location to view and appreciate their galleries in the metaverse. You can get ideas from projects like Spatial, Oncyber, Arium, Cryptovoxels, and Showtime.
+Some Extra Shots…
+Think about incorporating NFTs into your existing traditional artistic practice. We advise you to become familiar with the options available, like which NFT collections are most popular, what they include in their roadmaps, and what kind of NFT makers enter the field.
+Don’t forget to continue using Twitter and Discord. You can find useful information there about the neighbourhood, the economy, and job prospects.
