@@ -2,6 +2,7 @@
 title: How Ethereum Works
 date: 2022-12-02T06:30:13.611Z
 description: Understand how Ethereum works, its underlying technology and mechanism
+image: img/how_ethereum_work.jpg
 ---
 ## ***Ethereum: What Is It?***
 
