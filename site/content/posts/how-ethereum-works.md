@@ -27,11 +27,7 @@ One of the first to think about blockchain technology’s full potential beyond 
 
 Decentralized applications (DApps) and smart contracts are two areas where Ethereum is frequently used. The Ethereum blockchain was divided into two separate blockchains in 2016: one is used for ether (ETH), and the other is used for Ethereum Classic (ETC).
 
-
-
 ## *Blockchain’s Underlying Technology*
-
-
 
 A blockchain is a decentralized database with a continuously expanding list of records that are chained from the oldest to the most recent in chronological order. Ethereum uses blockchain technology, just like other cryptocurrencies. Just image a very long chain of blocks, all the data from each block is added to each newly created block with new data. The blockchain is dispersed across the network in a single copy. 
 
