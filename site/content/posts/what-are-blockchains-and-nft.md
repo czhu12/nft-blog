@@ -41,3 +41,13 @@ You can select your blockchain when deploying a new project on the Contract Crea
 ## Do you support Solana?
 
 We are currently adding support for Solana! Stay tuned!
+
+**Smart Contract**
+
+A smart contract needs to be deployed to the blockchain before it can be used, the amount of time this takes depends on how busy the blockchain is, but is normally less than 10 minutes. In the meantime, your project deployment page will look like this:
+
+![](https://i0.wp.com/info.mintables.club/wp-content/uploads/2022/04/image-2.png?resize=980%2C627&ssl=1)
+
+You can click on the blockchain icon to see your smart contract creation transaction on Etherscan or Polyscan.
+
+Please contact us on twitter (https://twitter.com/MintablesNFT) if your deployment is taking longer than that.
