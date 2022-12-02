@@ -32,7 +32,7 @@ Decentralized applications (DApps) and smart contracts are two areas where Ether
 
 A blockchain is a decentralized database with a continuously expanding list of records that are chained from the oldest to the most recent in chronological order. Ethereum uses blockchain technology, just like other cryptocurrencies. Just image a very long chain of blocks, all the data from each block is added to each newly created block with new data. The blockchain is dispersed across the network in a single copy. 
 
-![]()
+![Blockchain Technology](img/blockchain.jpg "Blockchain Technology")
 
 A network of automated programs that agree on the truthfulness of transaction data validate this blockchain. The blockchain cannot be altered unless the network as a whole agrees to do so. It is very safe because of this. With a “forks” mechanism, no centralized authority, and a decentralized network that adheres to blockchain validation rules, Ethereum is similar to Bitcoin in many ways.
 
