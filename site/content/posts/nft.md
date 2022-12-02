@@ -4,6 +4,7 @@ date: 2022-12-02T19:56:01.701Z
 description: >
   How to Unite Art & Blockchain to Create Unforgettable & Best Seller
   Non-Fungible Token (NFT)
+image: img/nft_art_generator.jpg
 ---
 The world of technology is evolving day by day, from web 2 to web 3, from art to NFT…Maybe some people wonder, what exactly is this NFT thing? Let’s just try to give answers to some common queries including why people are crazy about NFT, whether NFT is a real revolution or just a bubble, how to generate an NFT, what it has for NFT creators etc. We made an honest effort to avoid technical hand-holding and difficult language to keep things simple.
 
