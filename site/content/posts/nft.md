@@ -34,6 +34,10 @@ You can upload your incredible works of art on the blockchain once the above iss
 
 Simply upload your artwork. Then, you can control all collection variables, including rules and rarity, and auto-generate NFTs in a matter of minutes. By including their wallet addresses in your collection, you can easily ask others to contribute.
 
+![NFT Art Collection - Astro Boy](img/nft_art_collection_astroboy.png "NFT Art Collection - Astro Boy")
+
+\    N﻿FT Art Collection Astro Boy Club created using Mintables NFT Creator Studio               
+
 Making a smart contract is also not anything you need to be concerned about. With Mintables, you can easily create your tokens on the Ethereum network (you can forget about the crypto terms as well). Additionally, before deploying the smart contract, you may test your mint flow to make sure everything is operating as it should.   
 
 ## NFT Marketplace
@@ -46,6 +50,10 @@ After creating NFT, the big question is, where to visit for the NFT launch. Let 
 * L﻿ooksRare
 * S﻿uperRare
 * N﻿ifty Gateway
+*
+*
+
+![OpenSea Art Collections](img/opensea_art_collections.png "OpenSea Art Collections")
 
 ## How to Attract Potential Buyers?
 
