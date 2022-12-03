@@ -50,12 +50,14 @@ After creating NFT, the big question is, where to visit for the NFT launch. Let 
 * L﻿ooksRare
 * S﻿uperRare
 * N﻿ifty Gateway
-*
-*
 
-![OpenSea Art Collections](img/opensea_art_collections.png "OpenSea Art Collections")
 
-## How to Attract Potential Buyers?
+
+![Opensea Art Collection](img/opensea_art_collections.png "Opensea Art Collection")
+
+\    Opensea Art Collection  
+
+##  How to Attract Potential Buyers?
 
 It can be a perfect fit if your traditional work reflects some touch to NFT collectors. If the content is truly valuable, there will be a market for it, just like there is for anything else of value. Put yourself in the position of your potential customers and consider what will seem most genuine to them. The worth may stem from your artistic identity or the topic you choose to portray. You can always experiment with both traditional and digital art to make NFT art for potential sales or gallery displays.
 
