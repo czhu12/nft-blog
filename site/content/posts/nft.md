@@ -2,7 +2,7 @@
 title: NFT
 date: 2022-12-02T19:56:01.701Z
 description: >
-  How to Unite Art & Blockchain to Create Unforgettable & Best Seller
+  How to Unite Art & Blockchain to Create Unforgettable & Best Selling
   Non-Fungible Token (NFT)
 image: img/nft_art_generator.jpg
 ---
@@ -20,6 +20,8 @@ While the first NFT project, "Etheria," was launched in October 2015 on the Ethe
 
 A new craze for NFTs began in 2021, catching the attention of prominent celebrities such as Paris Hilton, Snoop Dogg, Eminem, Grimes, and Cara Delevingne as well as artists, digital art collectors, businesses, and companies. Following the introduction of several NFT projects that year, the ERC-721 standard, which was first introduced via the Ethereum GitHub, is when the word "NFT" first became widely used. Large corporations are already utilizing NFTs because they recognize the potential in the market, including Coca-Cola, the NBA, and Louis Vuitton.
 
+![NFT Arts](img/nft_arts.png "NFT Arts")
+
 ## How to Create A NFT Collection
 
 Maybe after reading the previous section, you will become excited to create your NFT, but let’s just try to find the answers to some common questions before moving forward:
@@ -28,7 +30,7 @@ Maybe after reading the previous section, you will become excited to create your
 * Is it analogous to producing digital art? NFTs can be categorized as digital art in the blockchain.
 * Does making an NFT require an understanding of blockchain? You must be aware of the advantages and disadvantages of the blockchain. No expertise is required. But you’ll get the most out of it if you grasp the fundamentals.
 
-You can upload your incredible works of art on the blockchain once the above issues have been resolved. Use a no-code tool, such as the Mintables, as an NFT art generator. Without writing a single line of code, you can mint NFT art in huge numbers.
+You can upload your incredible works of art on the blockchain once the above issues have been resolved. Use a no-code tool, such as the Mintables <https://www.mintables.club/>, as an NFT art generator. Without writing a single line of code, you can mint NFT art in huge numbers.
 
 Simply upload your artwork. Then, you can control all collection variables, including rules and rarity, and auto-generate NFTs in a matter of minutes. By including their wallet addresses in your collection, you can easily ask others to contribute.
 
@@ -45,13 +47,14 @@ After creating NFT, the big question is, where to visit for the NFT launch. Let 
 * S﻿uperRare
 * N﻿ifty Gateway
 
+## How to Attract Potential Buyers?
 
+It can be a perfect fit if your traditional work reflects some touch to NFT collectors. If the content is truly valuable, there will be a market for it, just like there is for anything else of value. Put yourself in the position of your potential customers and consider what will seem most genuine to them. The worth may stem from your artistic identity or the topic you choose to portray. You can always experiment with both traditional and digital art to make NFT art for potential sales or gallery displays.
 
-## How to attract potential buyers?
-
-
-It can be a perfect fit, if your traditional work reflects some traditional touch, to NFT collectors. If the content is truly valuable, there will be a market for it, just like there is for anything else of value. Put yourself in the position of your potential customers and consider what will seem most genuine to them. The worth may stem from your artistic identity or the topic matter you choose to portray. You can always experiment with both traditional and digital art to make NFT art for potential sales or gallery displays.
 With web3, we are witnessing more innovative possibilities for creators to display their work, as well as for collectors to have a central location to view and appreciate their galleries in the metaverse. You can get ideas from projects like Spatial, Oncyber, Arium, Cryptovoxels, and Showtime.
+
 Some Extra Shots…
-Think about incorporating NFTs into your existing traditional artistic practice. We advise you to become familiar with the options available, like which NFT collections are most popular, what they include in their roadmaps, and what kind of NFT makers enter the field.
-Don’t forget to continue using Twitter and Discord. You can find useful information there about the neighbourhood, the economy, and job prospects.
+
+Think about incorporating NFTs into your existing traditional artistic practice. We advise you to become familiar with the options available, like which NFT collections are the most popular, what they include in their roadmaps, and what kind of NFT makers enter the field.
+
+Don’t forget to contact us on Twitter (<https://twitter.com/MintablesNFT>) if you need help on creating NFT arts using our NFT creator studio.
