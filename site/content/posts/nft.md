@@ -1,5 +1,5 @@
 ---
-title: NFT
+title: NFT Art Creations and Market Places
 date: 2022-12-02T19:56:01.701Z
 description: >
   How to Unite Art & Blockchain to Create Unforgettable & Best Selling
