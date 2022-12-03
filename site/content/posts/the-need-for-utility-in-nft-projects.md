@@ -5,6 +5,7 @@ description: The simplest definition of an utility NFT is what you get when you
   buy the digital collectibles NFTs. Imagine it as a bonus with real-world
   rewards and other privileges that only members can access due to their token
   ownership.
+image: img/utility_nfts.jpg
 ---
 If you have been in the crypto space for a long time, you will most likely agree that the NFT space has evolved drastically this year. It is accurate to say that the NFT market and the economy are not in the best possible shape right now that many people felt a few months ago. On the other side, numerous NFT makers and collectors are optimistic about the NFTs future.
 
