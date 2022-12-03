@@ -19,6 +19,12 @@ There are several real-world cases of organizations, entrepreneurs, and artists 
 
 In other cases, purchasing a World of Women token will get you access to curated pre-sales and mint passes for high-potential collections, holders-only raffles, an invitation to the annual galas, IRL events like a dance party with Madonna - The Queen of Pop, at NFT NYC 2022. This collection's appeal is partially due to these utilities and a tonne of additional FOMO-inducing benefits that non-owners can only surmise.
 
+![Degen Dragon Cosplay Club NFTs](img/degen_dragon_cosplay_club_nft.png "Degen Dragon Cosplay Club NFTs")
+
+**(Source:** <https://www.mintables.club/m/ddcc>**)**
+
+
+
 Many DeFi use NFT because of its capacity to store value and act as an immutable proof of ownership. DeFi, in turn, assists in unlocking this value and performing various activities using tokenized assets.
 
 Utilities vary depending on the situation, of course. There is more to utility than just token-gating good stuff, even though founders typically lavish their communities with IP licensing, unique merchandise, and member-only events.
