@@ -36,7 +36,7 @@ Simply upload your artwork. Then, you can control all collection variables, incl
 
 ![NFT Art Collection - Astro Boy](img/nft_art_collection_astroboy.png "NFT Art Collection - Astro Boy")
 
-\    N﻿FT Art Collection Astro Boy Club created using Mintables NFT Creator Studio               
+   N﻿FT Art Collection Astro Boy Club created using Mintables NFT Creator Studio               
 
 Making a smart contract is also not anything you need to be concerned about. With Mintables, you can easily create your tokens on the Ethereum network (you can forget about the crypto terms as well). Additionally, before deploying the smart contract, you may test your mint flow to make sure everything is operating as it should.   
 
@@ -51,13 +51,11 @@ After creating NFT, the big question is, where to visit for the NFT launch. Let 
 * S﻿uperRare
 * N﻿ifty Gateway
 
-
-
 ![Opensea Art Collection](img/opensea_art_collections.png "Opensea Art Collection")
 
 \    Opensea Art Collection  
 
-##  How to Attract Potential Buyers?
+## How to Attract Potential Buyers?
 
 It can be a perfect fit if your traditional work reflects some touch to NFT collectors. If the content is truly valuable, there will be a market for it, just like there is for anything else of value. Put yourself in the position of your potential customers and consider what will seem most genuine to them. The worth may stem from your artistic identity or the topic you choose to portray. You can always experiment with both traditional and digital art to make NFT art for potential sales or gallery displays.
 
